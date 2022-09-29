@@ -12,13 +12,15 @@ const nuevaString = "muchos eslabones amarrados en una CADENA y a no olvidar que
    Asi de esta manera debieramos entender que un eslabon de la cadena ...
    es cualquiera de esos que le llamamos caractér
       */
-// Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+// EJERCICIO_NUMERO_2: Crea una variable numérica, puede ser cualquier número:
+const nuevoNum = 29;
+//EL 29 de Septiembre es el cumpleaños de mi novia , pero ya no es mi novia porque se casó con otro desgraciado.
+/*jajaja jeje que bueno que NO me he casado con ella porque era una mujer demasiado infiel. Bueno 29 es un mumero cualquiera al igual que cualquiera era mi novia jajajajaja */ 
 
-// Crea una variable booleana:
-const nuevoBool = null;
+// EJERCICIO_NUMERO_3: Crea una variable booleana:
+const nuevoBool = false; /* la constante nuevoBool es "falsa" igual que lo era mi novia jajaja  */
 
-// Resuelve el siguiente problema matemático:
+// EJERCICIO_MUMERO_4 Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
 
 // Resuelve el siguiente problema matemático:
