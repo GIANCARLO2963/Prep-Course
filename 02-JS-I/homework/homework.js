@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = "Una Cadena es lo que usamos para amarrar una bicicleta con un candado, luego asi no te la pueden robar, pero en lenguaje de programacion una cadena es una secuencia de letras o simbolos incluido el espacio en blanco . Asi de esta manera debieramos entender que un eslabon de la cadena es cualquiera de esos que le llamamos caractér";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
