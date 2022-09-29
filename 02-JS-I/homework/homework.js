@@ -1,8 +1,17 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
-// Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "Una Cadena es lo que usamos para amarrar una bicicleta con un candado, luego asi no te la pueden robar, pero en lenguaje de programacion una cadena es una secuencia de letras o simbolos incluido el espacio en blanco . Asi de esta manera debieramos entender que un eslabon de la cadena es cualquiera de esos que le llamamos caractér";
-
+//EJERCICIO_NUMERO_1: Crea una variable "string", puede contener lo que quieras:
+const nuevaString = "muchos eslabones amarrados en una CADENA y a no olvidar que la cadena es metalica a veces";
+/*Una Cadena es lo que usamos para amarrar una bicicleta con un candado,
+ luego asi no te la pueden robar, entonces vos siempre has sabido lo que significa la palabra cadena.
+ Si claro seguro que si. 
+ Ahora bien : la palabra cadena en inglés se dice String ¿comprendés?
+ pero en lenguaje de programacion una cadena es una secuencia de letras o simbolos asi como el de suma + o el de 
+ % porcentaje o el parentesis ( y todos estos son cadenas  incluido el espacio en blanco que tambien es conocido como 
+  la barra espaciadora aqui en tu teclado .
+   Asi de esta manera debieramos entender que un eslabon de la cadena ...
+   es cualquiera de esos que le llamamos caractér
+      */
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
