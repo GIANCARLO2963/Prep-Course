@@ -21,10 +21,12 @@ const nuevoNum = 29;
 const nuevoBool = false; /* la constante nuevoBool es "falsa" igual que lo era mi novia jajaja  */
 
 // EJERCICIO_MUMERO_4 Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = 10 - 5 === 5;/*la expresion 10-5===5 devuelve "verdadero" despues de evaluar si es que 
+son iguales y luego de eso a la constante llamada nuevaResta se le asigna el valor =true*/
 
-// Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * null === 40 ;
+// EJERCICIO_NUMERO_5 Resuelve el siguiente problema matemático:
+const nuevaMultiplicacion = 10 * 4 === 40 ;/* en la linea 63 del archivo JSI.test.js dice que nuevaMultiplicacion
+deberia ser un booleano luego del comando npm test JSI.test.js el resultado es que he pasado 5 y me quedan 30*/
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
