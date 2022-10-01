@@ -51,31 +51,33 @@ Resultado es que he pasado 6 y me quedan 29*/
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+  return str;
 }
 
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  
+  return x+y;//ya pasé 8 ejercicios  
 }
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  
+  return x-y;//ya pase 9 ejercicios me faltan 26
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+  return x*y;//ya pase 10 ejercicios me faltan 25
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
+  return x/y;
+  //11 verdes y 24 rojos
   
 }
 
@@ -83,13 +85,15 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  
+  if (x==y) return true; else return false;
+  //12verdes y 23 rojos
 }
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
-  // Tu código:
+  // 13verdes y 22rojos
+  if (str1.lenght==str2.lenght) return true;  if (str1.lenght!=str2.lenght)return false;
   
 }
 
